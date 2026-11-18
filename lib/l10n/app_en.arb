@@ -1,0 +1,79 @@
+{
+  "@@locale": "en",
+  "settings": "Settings",
+  "signIn": "Sign in",
+  "serverUrl": "OpenTickly installation URL",
+  "newApiKey": "New API key",
+  "apiKey": "API key",
+  "apiHint": "OpenTickly → Profile → API Token",
+  "connecting": "Connecting…",
+  "saveConnection": "Save connection",
+  "connect": "Connect",
+  "signOut": "Sign out",
+  "withoutDescription": "No description",
+  "workingOn": "What are you working on?",
+  "startTimer": "Start timer",
+  "stopTimer": "Stop timer",
+  "chooseWorkspace": "Choose workspace",
+  "chooseProject": "Choose project",
+  "emptyProjects": "No projects available",
+  "emptyTags": "No tags available",
+  "noProject": "No project",
+  "project": "Project",
+  "tags": "Tags",
+  "noTags": "No tags",
+  "billable": "Billable",
+  "nonBillable": "Non-billable",
+  "syncAll": "Sync all",
+  "backToTimer": "Back to timer",
+  "refresh": "Refresh",
+  "cancel": "Cancel",
+  "apply": "Apply",
+  "emptyEntries": "No time entries yet.",
+  "resumeEntry": "Resume entry",
+  "today": "Today",
+  "yesterday": "Yesterday",
+  "language": "Language",
+  "systemLanguage": "System language",
+  "keychainUnavailable": "Keychain unavailable.",
+  "invalidResponse": "Could not process the server response.",
+  "timerChanged": "The timer changed elsewhere. Your view has been refreshed.",
+  "missingKey": "Please enter your API key.",
+  "invalidAddress": "Enter the HTTPS address of your installation.",
+  "invalidKey": "Invalid API key. Please sign in again.",
+  "unreachable": "Server unreachable. Check the connection and URL.",
+  "timeout": "The server did not respond in time.",
+  "noWorkspace": "No workspace available.",
+  "httpError": "OpenTickly returned HTTP {code}. Check the URL and your access.",
+  "@httpError": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "runningIn": "Timer running in {name}",
+  "@runningIn": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "projectId": "Project #{id}",
+  "@projectId": {
+    "placeholders": {
+      "id": {
+        "type": "String"
+      }
+    }
+  },
+  "tagId": "Tag #{id}",
+  "@tagId": {
+    "placeholders": {
+      "id": {
+        "type": "String"
+      }
+    }
+  }
+}

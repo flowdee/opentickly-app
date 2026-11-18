@@ -4,7 +4,6 @@ A free, independent macOS client for [OpenTickly](https://github.com/CorrectRoad
 
 <p>
   <img src="docs/screenshots/tracker.png" width="420" alt="Running timer in the Studio workspace above personal time entries grouped by day">
-  <img src="docs/screenshots/tags.png" width="420" alt="Selecting Design and Development tags for a billable Website entry">
 </p>
 
 ## Track time

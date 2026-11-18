@@ -21,6 +21,10 @@ A free, independent macOS client for [OpenTickly](https://github.com/CorrectRoad
 
 The interface follows your Mac’s preferred language and supports English and German. You can also choose a language in **Settings**.
 
+## Mac updates
+
+Choose **OpenTickly → Check for Updates…** to check GitHub for a newer build. Use **Automatically Check for Updates** in the same menu to turn periodic checks on or off. Published updates are verified with [Sparkle](https://sparkle-project.org/) before installation.
+
 ## Run from source
 
 The Mac client is currently available as source. On a Mac with Xcode and Flutter installed, use a Flutter SDK that includes Dart 3.13.4 or a compatible newer 3.x version.
